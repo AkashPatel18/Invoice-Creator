@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/invoicecreater/static/css/main.89e17ab2.chunk.css",
-    "main.js": "/invoicecreater/static/js/main.5c3d1906.chunk.js",
-    "main.js.map": "/invoicecreater/static/js/main.5c3d1906.chunk.js.map",
-    "runtime-main.js": "/invoicecreater/static/js/runtime-main.09d9bf03.js",
-    "runtime-main.js.map": "/invoicecreater/static/js/runtime-main.09d9bf03.js.map",
-    "static/js/2.a8436d3b.chunk.js": "/invoicecreater/static/js/2.a8436d3b.chunk.js",
-    "static/js/2.a8436d3b.chunk.js.map": "/invoicecreater/static/js/2.a8436d3b.chunk.js.map",
-    "index.html": "/invoicecreater/index.html",
-    "static/css/main.89e17ab2.chunk.css.map": "/invoicecreater/static/css/main.89e17ab2.chunk.css.map",
-    "static/js/2.a8436d3b.chunk.js.LICENSE.txt": "/invoicecreater/static/js/2.a8436d3b.chunk.js.LICENSE.txt",
-    "static/media/GroovySittingDoodle.11acce19.svg": "/invoicecreater/static/media/GroovySittingDoodle.11acce19.svg",
-    "static/media/MessyDoodle.b4b5ddb2.svg": "/invoicecreater/static/media/MessyDoodle.b4b5ddb2.svg"
+    "main.css": "/Invoice-Creater/static/css/main.89e17ab2.chunk.css",
+    "main.js": "/Invoice-Creater/static/js/main.5c3d1906.chunk.js",
+    "main.js.map": "/Invoice-Creater/static/js/main.5c3d1906.chunk.js.map",
+    "runtime-main.js": "/Invoice-Creater/static/js/runtime-main.5003ac83.js",
+    "runtime-main.js.map": "/Invoice-Creater/static/js/runtime-main.5003ac83.js.map",
+    "static/js/2.6fbf6741.chunk.js": "/Invoice-Creater/static/js/2.6fbf6741.chunk.js",
+    "static/js/2.6fbf6741.chunk.js.map": "/Invoice-Creater/static/js/2.6fbf6741.chunk.js.map",
+    "index.html": "/Invoice-Creater/index.html",
+    "static/css/main.89e17ab2.chunk.css.map": "/Invoice-Creater/static/css/main.89e17ab2.chunk.css.map",
+    "static/js/2.6fbf6741.chunk.js.LICENSE.txt": "/Invoice-Creater/static/js/2.6fbf6741.chunk.js.LICENSE.txt",
+    "static/media/GroovySittingDoodle.11acce19.svg": "/Invoice-Creater/static/media/GroovySittingDoodle.11acce19.svg",
+    "static/media/MessyDoodle.b4b5ddb2.svg": "/Invoice-Creater/static/media/MessyDoodle.b4b5ddb2.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.09d9bf03.js",
-    "static/js/2.a8436d3b.chunk.js",
+    "static/js/runtime-main.5003ac83.js",
+    "static/js/2.6fbf6741.chunk.js",
     "static/css/main.89e17ab2.chunk.css",
     "static/js/main.5c3d1906.chunk.js"
   ]
