@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/invoicecreater/static/css/main.89e17ab2.chunk.css",
+    "main.js": "/invoicecreater/static/js/main.5c3d1906.chunk.js",
+    "main.js.map": "/invoicecreater/static/js/main.5c3d1906.chunk.js.map",
+    "runtime-main.js": "/invoicecreater/static/js/runtime-main.09d9bf03.js",
+    "runtime-main.js.map": "/invoicecreater/static/js/runtime-main.09d9bf03.js.map",
+    "static/js/2.a8436d3b.chunk.js": "/invoicecreater/static/js/2.a8436d3b.chunk.js",
+    "static/js/2.a8436d3b.chunk.js.map": "/invoicecreater/static/js/2.a8436d3b.chunk.js.map",
+    "index.html": "/invoicecreater/index.html",
+    "static/css/main.89e17ab2.chunk.css.map": "/invoicecreater/static/css/main.89e17ab2.chunk.css.map",
+    "static/js/2.a8436d3b.chunk.js.LICENSE.txt": "/invoicecreater/static/js/2.a8436d3b.chunk.js.LICENSE.txt",
+    "static/media/GroovySittingDoodle.11acce19.svg": "/invoicecreater/static/media/GroovySittingDoodle.11acce19.svg",
+    "static/media/MessyDoodle.b4b5ddb2.svg": "/invoicecreater/static/media/MessyDoodle.b4b5ddb2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09d9bf03.js",
+    "static/js/2.a8436d3b.chunk.js",
+    "static/css/main.89e17ab2.chunk.css",
+    "static/js/main.5c3d1906.chunk.js"
+  ]
+}
